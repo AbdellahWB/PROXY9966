@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/6189aeeb832e4](https://cvdesignr.com/p/6189aeeb832e4)     
   
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdellah-wahbi](https://www.linkedin.com/in/abdellah-wahbi) 
+- 📄 linkedin [https://www.linkedin.com/in/abdellah-wahbi](https://www.linkedin.com/in/abdellah-wahbi) 
 
 
 <h3 align="left">Connect with me:</h3>
