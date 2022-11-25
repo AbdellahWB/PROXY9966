@@ -8,6 +8,7 @@
 - 📫 How to reach me **wb.abdellah@gmail.com**
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/6189aeeb832e4](https://cvdesignr.com/p/6189aeeb832e4)
+-                               https://www.linkedin.com/in/abdellah-wahbi/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
