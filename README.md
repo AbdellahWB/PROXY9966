@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PROXY9966</h1>
-<h3 align="center">A passionate web developer from France</h3>
+<h3 align="center">A passionate full-stack developer from France</h3>
 
 - 🔭 I’m currently working on [APKFIVE]( https://apkfive.com/ )
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/6189aeeb832e4](https://cvdesignr.com/p/6189aeeb832e4)     
   
--                              [https://www.linkedin.com/in/abdellah-wahbi](https://www.linkedin.com/in/abdellah-wahbi) 
+- 📄 Know about my experiences [https://www.linkedin.com/in/abdellah-wahbi](https://www.linkedin.com/in/abdellah-wahbi) 
 
 
 <h3 align="left">Connect with me:</h3>
